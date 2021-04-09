@@ -1,6 +1,6 @@
 package leetcode;
 
-public class RemoveOuterParentheses {
+public class L1021 {
     public String removeOuterParentheses(String S) {
         StringBuilder sb = new StringBuilder();
         int count = 0;

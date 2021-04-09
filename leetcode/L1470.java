@@ -1,6 +1,6 @@
 package leetcode;
 
-public class Shuffle {
+public class L1470 {
     public int[] shuffle(int[] nums, int n) {
         int[] res = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {

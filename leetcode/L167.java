@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum2 {
+public class L167 {
 
 
     public static void main(String[] args) {
